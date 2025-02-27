@@ -1,6 +1,6 @@
 # Spam-Detection-Project
 ### Introduction:
-This is the full project of Spam Detection Model where i used 3 different datasets to train the model. The model that i used there is Logistic Regression. You can see the code of the model training [here](https://github.com/Kalyan9639/NLP/blob/main/Spam%20Detection%20Model%20trained%203%20different%20data.ipynb)
+This is the full project of Spam Detection Model where i used 3 different datasets to train the model. The model that i used there is Logistic Regression. You can see the code of the model training [here](https://github.com/Kalyan9639/NLP/blob/main/Spam%20Detection%20Model%20trained%203%20different%20data.ipynb) .
 
 ### Contents/Description of the files:
 - The 'spam_detec_model' is the ML model that i downloaded after training on 3 different datasets.
