@@ -8,7 +8,7 @@ This is the full project of Spam Detection Model where i used 3 different datase
 - The 'spam_detection_app.py' is the file where the code for the web application is present.
 
 ### About the application:
-I used the Python's streamlit module to create this web application. The prediction and data preprocessing is done with the help of the other 2 files present. This app contains a text area, where user can enter their title/message and can check whether the text is likely 'SPAM' or 'NOT SPAM'. There are also some example sentences that user can try on.
+I used the Python's streamlit module to create this web application. The prediction and data preprocessing is done with the help of the other 2 files present. This app contains a text area, where user can enter their title/message and can check whether the text is likely <ins>'SPAM'</ins> or <ins>'NOT SPAM'</ins>. There are also some example sentences that user can try on.
 
 ## Note:
 This is just a simple project of using the ML model in a web app. It's not an extension and doesn't support the feature of file uploading or file parsing.
