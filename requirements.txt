@@ -3,5 +3,4 @@ gensim
 numpy
 joblib
 scikit-learn
-sklearn
 pandas
